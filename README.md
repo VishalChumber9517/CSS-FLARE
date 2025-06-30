@@ -13,7 +13,7 @@ CSS-Flare is a lightweight and modular **CSS framework** built with **Sass**, pr
 ## Installation
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/manveersingh00/css-flare.git
+   git clone https://github.com/VishalChumber9517/CSS-FLARE.git
    cd css-flare
 
 2. **Installation dependencies (Sass)**
@@ -54,7 +54,7 @@ CSS-Flare is a lightweight and modular **CSS framework** built with **Sass**, pr
             <th>Age</th>
         </tr>
         <tr>
-            <td>John Doe</td>
+            <td>Vishal</td>
             <td>25</td>
         </tr>
     </table>
